@@ -1,9 +1,17 @@
-# Python artifacts
+# Python cache and bytecode
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Local configuration and secrets
+# Environment and secret files
+.env
+*.env
 config.json
 api_key.json
-.env
+
+# Local databases
+uids.db
+users.db
+
+# Optional temporary files
+.DS_Store
