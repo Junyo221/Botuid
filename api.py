@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 from typing import Optional
 
-TOKEN = "MTUxODA4NDk0MTA1MTg1NDg5OQ.GjRtLO.zPYIICnEWUczUCNEtz2Hzc4hzkTVAY-B744B0o"
+TOKEN = "MTUxODA4NDk0MTA1MTg1NDg5OQ.GO4L_f.0ilXR7qaXDRACVeabKEQIywHWk7MPOswXOTqM8"
 PANEL_CHANNEL_ID = 1503503368176402606
 
 GTC_API_URL = "https://gtccheats.xyz/Api/uidbypassapi/api_user.php"
